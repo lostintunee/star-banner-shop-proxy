@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://star-banner-shop-production.up.railway.app/$1"
+    }
+  ]
+}
